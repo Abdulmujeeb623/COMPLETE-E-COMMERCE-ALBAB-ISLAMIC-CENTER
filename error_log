@@ -1,0 +1,588 @@
+[21-Feb-2024 18:22:48 UTC] PHP Warning:  Undefined variable $servername in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:48 UTC] PHP Warning:  Undefined variable $username in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:48 UTC] PHP Warning:  Undefined variable $password in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:48 UTC] PHP Warning:  Undefined variable $dbname in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/ibdqwzul/public_html/add_category_validate.php:8
+Stack trace:
+#0 /home/ibdqwzul/public_html/add_category_validate.php(8): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:54 UTC] PHP Warning:  Undefined variable $servername in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:54 UTC] PHP Warning:  Undefined variable $username in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:54 UTC] PHP Warning:  Undefined variable $password in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:54 UTC] PHP Warning:  Undefined variable $dbname in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/ibdqwzul/public_html/add_category_validate.php:8
+Stack trace:
+#0 /home/ibdqwzul/public_html/add_category_validate.php(8): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:58 UTC] PHP Warning:  Undefined variable $servername in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:58 UTC] PHP Warning:  Undefined variable $username in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:58 UTC] PHP Warning:  Undefined variable $password in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:58 UTC] PHP Warning:  Undefined variable $dbname in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[21-Feb-2024 18:22:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/ibdqwzul/public_html/add_category_validate.php:8
+Stack trace:
+#0 /home/ibdqwzul/public_html/add_category_validate.php(8): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[24-Feb-2024 00:07:09 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/login.php on line 147
+[24-Feb-2024 00:07:15 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/login.php on line 147
+[25-Feb-2024 11:12:59 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:13:08 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:15:03 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:16:33 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/admin_navbar.php on line 192
+[25-Feb-2024 11:16:37 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/admin_navbar.php on line 192
+[25-Feb-2024 11:19:36 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/admin_navbar.php on line 194
+[25-Feb-2024 11:20:28 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/admin_navbar.php on line 194
+[25-Feb-2024 11:21:14 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:22:47 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:23:05 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:23:09 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:23:18 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:23:55 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:24:28 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 77
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 77
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 80
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 80
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 84
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 84
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 88
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 88
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 93
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 93
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 98
+[25-Feb-2024 11:25:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 98
+[25-Feb-2024 11:26:09 UTC] PHP Parse error:  syntax error, unexpected token "include" in /home/ibdqwzul/public_html/edit_product.php on line 42
+[25-Feb-2024 11:30:54 UTC] PHP Warning:  Undefined variable $servername in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[25-Feb-2024 11:30:54 UTC] PHP Warning:  Undefined variable $username in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[25-Feb-2024 11:30:54 UTC] PHP Warning:  Undefined variable $password in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[25-Feb-2024 11:30:54 UTC] PHP Warning:  Undefined variable $dbname in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[25-Feb-2024 11:30:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/ibdqwzul/public_html/add_category_validate.php:8
+Stack trace:
+#0 /home/ibdqwzul/public_html/add_category_validate.php(8): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/add_category_validate.php on line 8
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 77
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 80
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 84
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 88
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 93
+[25-Feb-2024 11:52:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 98
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 77
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 77
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 80
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 80
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 84
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 84
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 88
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 88
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 93
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 93
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Undefined variable $productData in /home/ibdqwzul/public_html/edit_product2.php on line 98
+[25-Feb-2024 11:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_product2.php on line 98
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/index.php on line 365
+[27-Feb-2024 18:45:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 59
+[27-Feb-2024 18:45:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 63
+[27-Feb-2024 18:45:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 64
+[27-Feb-2024 18:45:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 65
+[27-Feb-2024 18:45:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 66
+[27-Feb-2024 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 59
+[27-Feb-2024 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 63
+[27-Feb-2024 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 64
+[27-Feb-2024 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 65
+[27-Feb-2024 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 66
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 59
+[27-Feb-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 63
+[27-Feb-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 64
+[27-Feb-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 65
+[27-Feb-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 66
+[27-Feb-2024 18:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 59
+[27-Feb-2024 18:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 63
+[27-Feb-2024 18:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 64
+[27-Feb-2024 18:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 65
+[27-Feb-2024 18:49:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 66
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Undefined variable $row in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:49:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/shop.php on line 195
+[27-Feb-2024 18:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 59
+[27-Feb-2024 18:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 63
+[27-Feb-2024 18:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 64
+[27-Feb-2024 18:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 65
+[27-Feb-2024 18:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/view_product.php on line 66
+[28-Feb-2024 14:10:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ibdqwzul/public_html/shopping.php:16
+Stack trace:
+#0 /home/ibdqwzul/public_html/shopping.php(16): mysqli->__construct('localhost', 'root', '', 'albab')
+#1 /home/ibdqwzul/public_html/shopping.php(43): DatabaseHandler->__construct('localhost', 'root', '', 'albab')
+#2 {main}
+  thrown in /home/ibdqwzul/public_html/shopping.php on line 16
+[29-Feb-2024 12:20:35 UTC] PHP Parse error:  syntax error, unexpected variable "$categoryForm" in /home/ibdqwzul/public_html/add_category_validate.php on line 62
+[29-Feb-2024 12:40:02 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 12:40:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 12:40:02 UTC] PHP Warning:  Undefined array key "category_quantity" in /home/ibdqwzul/public_html/add_category_validate.php on line 59
+[29-Feb-2024 12:40:02 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 65
+[29-Feb-2024 12:40:02 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 12:40:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 12:42:28 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 12:42:28 UTC] PHP Warning:  Undefined array key "category_quantity" in /home/ibdqwzul/public_html/add_category_validate.php on line 59
+[29-Feb-2024 12:42:28 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 65
+[29-Feb-2024 12:42:28 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 12:42:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 14:20:11 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 14:20:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 14:20:11 UTC] PHP Warning:  Undefined array key "category_quantity" in /home/ibdqwzul/public_html/add_category_validate.php on line 59
+[29-Feb-2024 14:20:11 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 65
+[29-Feb-2024 14:20:11 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 14:20:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 14:21:20 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 14:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 58
+[29-Feb-2024 14:21:20 UTC] PHP Warning:  Undefined array key "category_quantity" in /home/ibdqwzul/public_html/add_category_validate.php on line 59
+[29-Feb-2024 14:21:20 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 65
+[29-Feb-2024 14:21:20 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 14:21:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 68
+[29-Feb-2024 14:37:16 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:37:16 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 50
+[29-Feb-2024 14:38:48 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:38:48 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 50
+[29-Feb-2024 14:41:05 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:41:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:41:05 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 50
+[29-Feb-2024 14:41:11 UTC] PHP Warning:  Undefined array key "category_image" in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:41:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/add_category_validate.php on line 46
+[29-Feb-2024 14:41:11 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/ibdqwzul/public_html/add_category_validate.php on line 50
+[01-Mar-2024 23:37:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[01-Mar-2024 23:37:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[01-Mar-2024 23:39:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[01-Mar-2024 23:39:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[01-Mar-2024 23:40:09 UTC] PHP Fatal error:  Cannot declare class DatabaseHandler, because the name is already in use in /home/ibdqwzul/public_html/admin_navbar.php on line 3
+[01-Mar-2024 23:41:03 UTC] PHP Fatal error:  Cannot declare class DatabaseHandler, because the name is already in use in /home/ibdqwzul/public_html/admin_navbar.php on line 3
+[01-Mar-2024 23:42:24 UTC] PHP Fatal error:  Cannot declare class DatabaseHandler, because the name is already in use in /home/ibdqwzul/public_html/admin_navbar.php on line 3
+[01-Mar-2024 23:42:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[01-Mar-2024 23:42:48 UTC] PHP Fatal error:  Cannot declare class DatabaseHandler, because the name is already in use in /home/ibdqwzul/public_html/admin_navbar.php on line 3
+[01-Mar-2024 23:43:29 UTC] PHP Fatal error:  Cannot declare class DatabaseHandler, because the name is already in use in /home/ibdqwzul/public_html/admin_navbar.php on line 3
+[02-Mar-2024 10:37:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 10:37:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 10:39:40 UTC] PHP Warning:  Undefined array key "quantity" in /home/ibdqwzul/public_html/edit_category2.php on line 35
+[02-Mar-2024 10:42:12 UTC] PHP Warning:  Undefined array key "quantity" in /home/ibdqwzul/public_html/edit_category2.php on line 35
+[02-Mar-2024 10:56:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 12:02:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 12:12:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 12:15:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 12:15:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/login.php on line 3
+[02-Mar-2024 12:16:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/login.php on line 3
+[02-Mar-2024 12:20:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/login.php on line 3
+[02-Mar-2024 12:20:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/login.php on line 3
+[02-Mar-2024 15:50:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:42:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:43:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:45:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:46:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:48:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:49:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:51:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:51:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 18:52:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 22:00:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 22:01:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[02-Mar-2024 22:01:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[03-Mar-2024 13:37:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[04-Mar-2024 12:19:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[04-Mar-2024 12:19:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[04-Mar-2024 12:19:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Mar-2024 18:38:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Mar-2024 10:15:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Mar-2024 10:15:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Mar-2024 10:15:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Mar-2024 10:15:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[11-Mar-2024 12:52:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ibdqwzul/public_html/index.php:8
+Stack trace:
+#0 /home/ibdqwzul/public_html/index.php(8): mysqli->__construct('localhost', 'ibdqwzul_albab', 'Abdulmujeeb_623', 'ibdqwzul_albab')
+#1 /home/ibdqwzul/public_html/index.php(36): DatabaseHandler->__construct('localhost', 'ibdqwzul_albab', 'Abdulmujeeb_623', 'ibdqwzul_albab')
+#2 {main}
+  thrown in /home/ibdqwzul/public_html/index.php on line 8
+[12-Mar-2024 23:50:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:50:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:50:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:52:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:55:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:55:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[12-Mar-2024 23:55:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[13-Mar-2024 00:31:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/shopping.php on line 3
+[13-Mar-2024 00:31:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/shopping.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 00:34:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/shopping.php on line 3
+[13-Mar-2024 00:34:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/shopping.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 00:39:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/shopping.php on line 3
+[13-Mar-2024 00:39:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/shopping.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 00:40:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/shopping.php on line 3
+[13-Mar-2024 00:40:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/shopping.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 02:47:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[13-Mar-2024 10:18:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[13-Mar-2024 10:18:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 10:18:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[13-Mar-2024 10:18:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 10:31:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[13-Mar-2024 10:31:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[13-Mar-2024 16:06:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[13-Mar-2024 19:20:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[13-Mar-2024 23:32:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[13-Mar-2024 23:32:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[14-Mar-2024 16:39:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`category_id`)) in /home/ibdqwzul/public_html/edit_category2.php:54
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_category2.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_category2.php on line 54
+[14-Mar-2024 16:39:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`category_id`)) in /home/ibdqwzul/public_html/edit_category2.php:54
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_category2.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_category2.php on line 54
+[14-Mar-2024 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_category2.php on line 75
+[14-Mar-2024 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_category2.php on line 78
+[14-Mar-2024 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_category2.php on line 83
+[14-Mar-2024 17:01:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ibdqwzul/public_html/edit_category2.php on line 88
+[15-Mar-2024 14:49:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/ibdqwzul/public_html/all_category.php:10
+Stack trace:
+#0 /home/ibdqwzul/public_html/all_category.php(10): mysqli->__construct('localhost', 'ibdqwzul_albab', 'Abdulmujeeb_623', 'ibdqwzul_albab')
+#1 /home/ibdqwzul/public_html/all_category.php(37): Database->__construct('localhost', 'ibdqwzul_albab', 'Abdulmujeeb_623', 'ibdqwzul_albab')
+#2 /home/ibdqwzul/public_html/index.php(42): include('/home/ibdqwzul/...')
+#3 {main}
+  thrown in /home/ibdqwzul/public_html/all_category.php on line 10
+[15-Mar-2024 23:14:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`category_id`)) in /home/ibdqwzul/public_html/edit_category2.php:54
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_category2.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_category2.php on line 54
+[15-Mar-2024 23:16:54 UTC] PHP Warning:  Undefined array key "quantity" in /home/ibdqwzul/public_html/edit_category2.php on line 35
+[15-Mar-2024 23:36:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[15-Mar-2024 23:37:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[15-Mar-2024 23:42:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`category_id`)) in /home/ibdqwzul/public_html/edit_category2.php:54
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_category2.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_category2.php on line 54
+[15-Mar-2024 23:44:04 UTC] PHP Warning:  Undefined array key "quantity" in /home/ibdqwzul/public_html/edit_category2.php on line 35
+[15-Mar-2024 23:44:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`category_id`)) in /home/ibdqwzul/public_html/edit_category2.php:54
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_category2.php(54): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_category2.php on line 54
+[15-Mar-2024 23:48:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[19-Mar-2024 10:53:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[19-Mar-2024 11:18:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[19-Mar-2024 11:50:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[19-Mar-2024 11:50:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[19-Mar-2024 11:50:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Mar-2024 06:56:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[21-Mar-2024 12:29:24 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:29:24 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:32:25 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:32:25 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:32:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:32:27 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:32:27 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:32:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:34:01 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:34:01 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:34:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:34:23 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:34:23 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:34:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:43:16 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:43:16 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:43:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 12:43:43 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 12:43:43 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 12:43:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 13:02:13 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 13:02:13 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 13:02:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 13:08:35 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 13:08:35 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 13:08:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 13:26:40 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 13:26:40 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 13:26:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 13:49:36 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[21-Mar-2024 13:49:36 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 61
+[21-Mar-2024 13:49:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:95
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(95): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 95
+[21-Mar-2024 13:56:20 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 56
+[21-Mar-2024 13:56:20 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 64
+[21-Mar-2024 13:56:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:98
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(98): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 98
+[21-Mar-2024 14:12:36 UTC] PHP Parse error:  Unclosed '{' on line 49 in /home/ibdqwzul/public_html/verify_transaction.php on line 122
+[21-Mar-2024 14:32:43 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 55
+[21-Mar-2024 14:32:43 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 63
+[21-Mar-2024 14:32:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:97
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 97
+[21-Mar-2024 14:34:16 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 55
+[21-Mar-2024 14:34:16 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 63
+[21-Mar-2024 14:34:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:97
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 97
+[21-Mar-2024 14:39:58 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 55
+[21-Mar-2024 14:39:58 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 63
+[21-Mar-2024 14:39:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:97
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 97
+[21-Mar-2024 22:27:19 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 112
+[21-Mar-2024 22:30:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'email' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:99
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 99
+[21-Mar-2024 22:32:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'email' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:99
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 99
+[21-Mar-2024 22:32:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'email' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:99
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 99
+[21-Mar-2024 22:37:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'email' cannot be null in /home/ibdqwzul/public_html/verify_transaction.php:99
+Stack trace:
+#0 /home/ibdqwzul/public_html/verify_transaction.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/verify_transaction.php on line 99
+[21-Mar-2024 22:40:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/albab_navbar2.php:11) in /home/ibdqwzul/public_html/verify_transaction.php on line 101
+[22-Mar-2024 02:15:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[22-Mar-2024 02:15:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[22-Mar-2024 02:15:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[22-Mar-2024 02:15:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[22-Mar-2024 14:57:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[23-Mar-2024 00:21:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[24-Mar-2024 16:29:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[24-Mar-2024 22:46:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[24-Mar-2024 22:46:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[26-Mar-2024 00:00:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[26-Mar-2024 00:02:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[26-Mar-2024 00:02:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[26-Mar-2024 00:07:26 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[26-Mar-2024 22:31:34 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/ibdqwzul/public_html/checkout.php on line 269
+[27-Mar-2024 03:57:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 03:57:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 03:57:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 03:57:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 04:08:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 04:10:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 08:31:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[27-Mar-2024 14:24:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[28-Mar-2024 01:03:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[29-Mar-2024 15:09:07 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[02-Apr-2024 23:22:59 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[02-Apr-2024 23:24:02 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[02-Apr-2024 23:26:22 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[03-Apr-2024 07:19:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[04-Apr-2024 23:57:49 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 00:05:43 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 00:06:28 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 00:08:31 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 03:28:04 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 03:29:00 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 03:29:35 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 03:31:45 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 116
+[05-Apr-2024 03:50:44 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[05-Apr-2024 03:50:44 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 54
+[05-Apr-2024 03:50:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/verify_transaction.php:53) in /home/ibdqwzul/public_html/verify_transaction.php on line 117
+[05-Apr-2024 03:53:58 UTC] PHP Warning:  Undefined array key "name" in /home/ibdqwzul/public_html/verify_transaction.php on line 53
+[05-Apr-2024 03:53:58 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/verify_transaction.php on line 54
+[05-Apr-2024 03:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/verify_transaction.php:53) in /home/ibdqwzul/public_html/verify_transaction.php on line 117
+[05-Apr-2024 14:11:16 UTC] PHP Warning:  Undefined array key "user_id" in /home/ibdqwzul/public_html/all_cart.php on line 16
+[06-Apr-2024 05:13:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 10:39:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 10:39:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 10:39:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 10:39:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 10:39:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[06-Apr-2024 15:00:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[06-Apr-2024 15:00:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[06-Apr-2024 15:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[06-Apr-2024 15:01:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[06-Apr-2024 15:01:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ibdqwzul_albab`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`product_id`)) in /home/ibdqwzul/public_html/edit_product2.php:56
+Stack trace:
+#0 /home/ibdqwzul/public_html/edit_product2.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ibdqwzul/public_html/edit_product2.php on line 56
+[06-Apr-2024 22:41:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cart_id' in 'IN/ALL/ANY subquery' in /home/ibdqwzul/public_html/DatabaseHandler.php:30
+Stack trace:
+#0 /home/ibdqwzul/public_html/DatabaseHandler.php(30): mysqli->prepare('DELETE FROM tra...')
+#1 /home/ibdqwzul/public_html/all_cart.php(23): DatabaseHandler->deleteCartItem(1, '8')
+#2 {main}
+  thrown in /home/ibdqwzul/public_html/DatabaseHandler.php on line 30
+[06-Apr-2024 22:42:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cart_id' in 'IN/ALL/ANY subquery' in /home/ibdqwzul/public_html/DatabaseHandler.php:30
+Stack trace:
+#0 /home/ibdqwzul/public_html/DatabaseHandler.php(30): mysqli->prepare('DELETE FROM tra...')
+#1 /home/ibdqwzul/public_html/all_cart.php(23): DatabaseHandler->deleteCartItem(1, '11')
+#2 {main}
+  thrown in /home/ibdqwzul/public_html/DatabaseHandler.php on line 30
+[06-Apr-2024 22:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cart_id' in 'IN/ALL/ANY subquery' in /home/ibdqwzul/public_html/DatabaseHandler.php:30
+Stack trace:
+#0 /home/ibdqwzul/public_html/DatabaseHandler.php(30): mysqli->prepare('DELETE FROM tra...')
+#1 /home/ibdqwzul/public_html/all_cart.php(23): DatabaseHandler->deleteCartItem(1, '11')
+#2 {main}
+  thrown in /home/ibdqwzul/public_html/DatabaseHandler.php on line 30
+[06-Apr-2024 23:14:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/all_cart.php on line 3
+[06-Apr-2024 23:14:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/all_cart.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[06-Apr-2024 23:14:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/all_cart.php on line 3
+[06-Apr-2024 23:14:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/all_cart.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[06-Apr-2024 23:16:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/all_cart.php on line 3
+[06-Apr-2024 23:16:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/all_cart.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[06-Apr-2024 23:21:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/albab_navbar2.php:11) in /home/ibdqwzul/public_html/all_cart.php on line 36
+[06-Apr-2024 23:22:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/albab_navbar2.php:11) in /home/ibdqwzul/public_html/all_cart.php on line 36
+[06-Apr-2024 23:28:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/albab_navbar2.php:11) in /home/ibdqwzul/public_html/all_cart.php on line 36
+[06-Apr-2024 23:28:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/albab_navbar2.php:11) in /home/ibdqwzul/public_html/all_cart.php on line 36
+[07-Apr-2024 00:17:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:18:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:19:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:19:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:23:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:25:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 00:30:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[07-Apr-2024 00:30:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[07-Apr-2024 00:30:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[07-Apr-2024 00:30:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[07-Apr-2024 00:30:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category2.php on line 3
+[07-Apr-2024 00:30:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ibdqwzul/public_html/view_category2.php:1) in /home/ibdqwzul/public_html/albab_navbar2.php on line 5
+[07-Apr-2024 01:09:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:01:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:01:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:01:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:03:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:03:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 07:50:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[07-Apr-2024 23:32:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[08-Apr-2024 07:17:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[08-Apr-2024 07:17:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[08-Apr-2024 10:29:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[08-Apr-2024 13:42:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[10-Apr-2024 03:30:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[10-Apr-2024 03:31:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[10-Apr-2024 03:31:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[10-Apr-2024 10:28:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 08:22:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[20-Apr-2024 22:23:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
+[22-Apr-2024 09:31:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/ibdqwzul/public_html/view_category.php on line 3
